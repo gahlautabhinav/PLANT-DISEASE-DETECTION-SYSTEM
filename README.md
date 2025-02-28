@@ -1,1 +1,1 @@
-# PLANT-DISEASE-DETECTION-SYSTEM
+# **Plant Disease Detection System for Sustainable Agriculture**
