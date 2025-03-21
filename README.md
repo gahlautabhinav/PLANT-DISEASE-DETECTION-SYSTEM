@@ -6,3 +6,4 @@ The Plant Disease Detection System is an AI-powered solution designed to help fa
 - **User-Friendly Web Interface**: Upload images and get instant results.
 - **Fast and Reliable**: Real-time image processing using a trained deep learning model.
 - **High Accuracy Model**: Built on the PlantVillage dataset using CNNs.
+-  **Scalable & Customizable**: Can be expanded to support more plant species and diseases.
