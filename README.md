@@ -25,3 +25,4 @@ The Plant Disease Detection System is an AI-powered solution designed to help fa
 
 **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/981e6fa9-4f09-468c-83e3-b3afb4685a4e)
+![Image](https://github.com/user-attachments/assets/0829f336-d614-4c83-828c-29bb4d53274b)
